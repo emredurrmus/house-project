@@ -31,7 +31,7 @@ Alternatively, if you are using an IDE (IntelliJ IDEA, Eclipse, VS Code, etc.):
 
 ### Requirements
 
-- Java 8 or later
+- Java 17 or later
 - Git (optional, for cloning the repository)
 - A Java IDE (optional)
 
